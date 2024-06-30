@@ -1,1 +1,1 @@
- Excited to present my new travel website! Crafted using HTML, CSS, and JavaScript, I focused on boosting my CSS animation skills and scroll behavior with Swiper JS, making it beautifully responsive. I'm constantly looking to improve my skillset
+ Excited to present my new travel website!
